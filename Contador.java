@@ -2,7 +2,7 @@ package mispaquetes;
 
 public class Contador extends Thread {
 
-//Gonzalo manco
+//Abraham manco
 	Boolean contadorMarcha = true;
 
 	public Contador() {
