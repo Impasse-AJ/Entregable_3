@@ -12,7 +12,7 @@ public class EscribeFichero {
 		try {
 			fichero = new FileWriter("C:\\Users\\TuKuloTaRoto\\Desktop\\mitula.txt");
 			pw = new PrintWriter(fichero);
-
+			//MODIFICO EL FICHERO 
 			Random rnd = new Random();
 
 			Double importeTransferencia = (double) 0;
