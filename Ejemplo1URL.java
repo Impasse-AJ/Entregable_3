@@ -10,7 +10,7 @@ public class Ejemplo1URL {
 	  url = new URL("http://docs.oracle.com/");
 	  Visualizar(url);
 		
-	  System.out.println("Otro constructor simple para una URL:");
+	  System.out.println("Otro amanecer con el constructor Gonzalo el simple para una URL:");
 	  url = new URL("http://localhost/PFC/gest/cli_gestion.php?S=3");
         Visualizar(url);
 		
